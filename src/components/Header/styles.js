@@ -1,11 +1,25 @@
 import styled from 'styled-components';
 
 export const HeaderContainer = styled.header`
-
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 80px;
+    background-color: #ec7000;
 `;
 
 export const Content = styled.div`
+    width: 100%;
+`;
 
+export const ContainerItems = styled.div`
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    max-width: 1246px;
+    padding: 0 50px;
+    margin: 0 auto;
 `;
 
 export const ContainerImage = styled.div`
@@ -13,21 +27,43 @@ export const ContainerImage = styled.div`
 `;
 
 export const Image = styled.img`
-
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    cursor: pointer;
 `;
 
 export const Nav = styled.nav`
-
+    
 `;
 
 export const Menu = styled.ul`
-
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
 `;
 
 export const ContainerButton = styled.div`
-
+    display: flex;
+    align-items: center;
+    height: 70%;
+    padding: 0 20px;
+    background-color: #106eb0;
+    cursor: pointer;
+    border-radius: 3px;
 `;
 
 export const Button = styled.button`
-
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+    border: none;
+    gap: 8px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+    height: 100%;
+    cursor: pointer;
 `;

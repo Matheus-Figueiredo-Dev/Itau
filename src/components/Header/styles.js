@@ -50,9 +50,9 @@ export const ContainerButton = styled.div`
     align-items: center;
     height: 70%;
     padding: 0 20px;
+    border-radius: 3px;
     background-color: #106eb0;
     cursor: pointer;
-    border-radius: 3px;
 `;
 
 export const Button = styled.button`
@@ -66,4 +66,12 @@ export const Button = styled.button`
     font-size: 15px;
     height: 100%;
     cursor: pointer;
+
+    &:hover {
+        opacity: 0.8;
+    }
+
+    &:active {
+        opacity: 0.6;
+    }
 `;

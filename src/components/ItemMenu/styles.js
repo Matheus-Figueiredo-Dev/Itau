@@ -7,4 +7,12 @@ export const MenuItem = styled.li`
     font-weight: bold;
     color: #fff;
     cursor: pointer;
+
+    &:hover {
+        opacity: 0.8;
+    }
+
+    &:active {
+        opacity: 0.6;
+    }
 `;

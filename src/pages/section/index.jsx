@@ -9,10 +9,10 @@ import {
   Title,
 } from './styles';
 
-import arrowExplorer from '../assets/arrow-explorer.svg';
-import appleStore from '../assets/btn-apple-store.svg';
-import googlePlay from '../assets/btn-google-play.svg';
-import woman from '../assets/woman.png';
+import arrowExplorer from '../../assets/arrow-explorer.svg';
+import appleStore from '../../assets/btn-apple-store.svg';
+import googlePlay from '../../assets/btn-google-play.svg';
+import woman from '../../assets/woman.png';
 
 export function Section() {
   return (

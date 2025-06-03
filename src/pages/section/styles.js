@@ -1,12 +1,12 @@
 import styled from 'styled-components';
-import background from '../assets/bg-hero.jpg';
+import background from '../../assets/bg-hero.jpg';
 
 export const Container = styled.main`
     background-image: url(${background});
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    width: 100%;
+    width: 100vw;
     height: 100vh;
 `;
 

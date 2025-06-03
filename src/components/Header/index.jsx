@@ -1,13 +1,11 @@
 import {
   Button,
   ContainerButton,
-  ContainerImage,
   ContainerItems,
   Content,
   HeaderContainer,
   Image,
   Menu,
-  Nav,
 } from './styles';
 
 import icon from '../../assets/icon-user.svg';
@@ -19,17 +17,13 @@ export function Header() {
     <HeaderContainer>
       <Content>
         <ContainerItems>
-          <ContainerImage>
-            <Image src={logo} alt="Logo Itaú" />
-          </ContainerImage>
-          <Nav>
-            <Menu>
-              <ItemMenu name="Para você" />
-              <ItemMenu name="Para empresas" />
-              <ItemMenu name="Serviço" />
-              <ItemMenu name="Ajuda" />
-            </Menu>
-          </Nav>
+          <Image src={logo} alt="Logo Itaú" />
+          <Menu>
+            <ItemMenu name="Para você" />
+            <ItemMenu name="Para empresas" />
+            <ItemMenu name="Serviço" />
+            <ItemMenu name="Ajuda" />
+          </Menu>
           <ContainerButton>
             <Button>
               <img src={icon} alt="Icone de usuario" />

@@ -18,12 +18,8 @@ export const ContainerItems = styled.div`
     justify-content: space-between;
     height: 100%;
     max-width: 1246px;
-    padding: 0 50px;
+    padding: 0 15px;
     margin: 0 auto;
-`;
-
-export const ContainerImage = styled.div`
-
 `;
 
 export const Image = styled.img`
@@ -33,16 +29,13 @@ export const Image = styled.img`
     cursor: pointer;
 `;
 
-export const Nav = styled.nav`
-    
-`;
-
 export const Menu = styled.ul`
     list-style: none;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 40px;
+    margin: 0 20px 0 0;
 `;
 
 export const ContainerButton = styled.div`

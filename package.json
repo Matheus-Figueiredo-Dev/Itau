@@ -10,7 +10,7 @@
     "react-scripts": "5.0.1",
     "styled-components": "^6.1.18"
   },
-  "homepage": "https://github.com/Matheus-Figueiredo-Dev/Itau",
+  "homepage": "https://matheus-figueiredo-dev.github.io/Itau",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

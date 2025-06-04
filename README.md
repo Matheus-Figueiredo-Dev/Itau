@@ -9,6 +9,8 @@ Uma landing page responsiva desenvolvida com **React** que simula a tela inicial
 
   ![image](https://github.com/user-attachments/assets/f638ef69-f8c9-4bd4-aa3b-c7ce7d64d68a)
 
+  Disponível em https://matheus-figueiredo-dev.github.io/Itau/
+
   📄 Licença
 Este projeto é apenas para fins de estudo e prática pessoal. Sem afiliação com o banco Itaú.
 

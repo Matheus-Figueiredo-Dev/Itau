@@ -5,7 +5,6 @@ Uma landing page responsiva desenvolvida com **React** que simula a tela inicial
 ## 🚀 Tecnologias Utilizadas
 
 - [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
 - [Styled-components](https://styled-components.com/)
 
   ![image](https://github.com/user-attachments/assets/f638ef69-f8c9-4bd4-aa3b-c7ce7d64d68a)

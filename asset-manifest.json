@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/Matheus-Figueiredo-Dev/Itau/static/js/main.539d6590.js",
+    "static/media/bg-hero.jpg": "/Matheus-Figueiredo-Dev/Itau/static/media/bg-hero.b9f3467987dae9acc1fa.jpg",
+    "static/media/woman.png": "/Matheus-Figueiredo-Dev/Itau/static/media/woman.8cc9debb0db7d9fa9837.png",
+    "static/media/phone.png": "/Matheus-Figueiredo-Dev/Itau/static/media/phone.42e0b1bd28bee5c2c297.png",
+    "static/media/btn-apple-store.svg": "/Matheus-Figueiredo-Dev/Itau/static/media/btn-apple-store.2835567553fbe4c378102be20a7035fe.svg",
+    "static/media/btn-google-play.svg": "/Matheus-Figueiredo-Dev/Itau/static/media/btn-google-play.c2f279171a8f9f12a7c46932189ed988.svg",
+    "static/media/logo.svg": "/Matheus-Figueiredo-Dev/Itau/static/media/logo.94b76ad38f4875c7d71ab0f7fdbd15af.svg",
+    "static/media/icon-solutions.svg": "/Matheus-Figueiredo-Dev/Itau/static/media/icon-solutions.baf3fab1f181a5b11ce978bc21c53fc0.svg",
+    "static/media/icon-options.svg": "/Matheus-Figueiredo-Dev/Itau/static/media/icon-options.ae7fec03a740bc50b93c2595cb1bab88.svg",
+    "static/media/icon-user.svg": "/Matheus-Figueiredo-Dev/Itau/static/media/icon-user.7c48a7a4c8515c450dee759f1fe181a3.svg",
+    "index.html": "/Matheus-Figueiredo-Dev/Itau/index.html",
+    "static/media/icon-phone.svg": "/Matheus-Figueiredo-Dev/Itau/static/media/icon-phone.d817735dafae0d807d632fb1b4eabaf1.svg",
+    "static/media/icon-card.svg": "/Matheus-Figueiredo-Dev/Itau/static/media/icon-card.d14ff614466fa773d7f4fa567e9d1921.svg",
+    "static/media/arrow-explorer.svg": "/Matheus-Figueiredo-Dev/Itau/static/media/arrow-explorer.2cabb80248cf13dba58ab7f00a0607e1.svg",
+    "static/media/arrow-down.svg": "/Matheus-Figueiredo-Dev/Itau/static/media/arrow-down.d47d6b747e3aecda8fe92e2dca0c496e.svg",
+    "main.539d6590.js.map": "/Matheus-Figueiredo-Dev/Itau/static/js/main.539d6590.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.539d6590.js"
+  ]
+}
